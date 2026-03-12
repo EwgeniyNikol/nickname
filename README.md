@@ -4,10 +4,3 @@
 
 Валидатор никнеймов.
 
-## Использование
-
-```javascript
-import Validator from 'nickname';
-
-const validator = new Validator();
-validator.validateUsername('john_doe'); 
